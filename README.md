@@ -1,4 +1,16 @@
+👋 Olá! Eu sou o Pedro Henrique
+💻 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)
+🚀 Aprendendo e desenvolvendo projetos com Java e SQL
+📍 Fortaleza - Ceará | 24 anos
 
+🛠️ Tecnologias e Ferramentas
+Linguagens: Java, SQL
+Banco de Dados: MySQL
+Ferramentas: IntelliJ IDEA, MySQL Workbench
+📂 O que você encontra aqui?
+Projetos e exercícios em Java
+Estudos aplicados em SQL
+Projetos práticos para reforçar meu aprendizado
   <a href="https://github.com/ProjectPedro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProjectPedro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProjectPedro&layout=compact&langs_count=6&theme=tokyonight"/>
