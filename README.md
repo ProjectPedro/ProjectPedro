@@ -8,6 +8,7 @@
 
 🛠️ Tecnologias e Ferramentas
 Linguagens: Java, SQL
+
 Banco de Dados: MySQL
 
 ⚙️ Ferramentas: IntelliJ IDEA, MySQL Workbench
