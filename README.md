@@ -1,6 +1,7 @@
-👋 Olá! Eu sou o Pedro Henrique
+👋 Olá Seja Bem Vindo(a)! 
+😄 Me Chamo Pedro Henrique,Uma Breve Apresentação Sobre mim:
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)
+💻 Graduando em Análise e Desenvolvimento de Sistemas
 
 🚀 Aprendendo e desenvolvendo projetos com Java e SQL
 
