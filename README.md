@@ -4,7 +4,7 @@
 
 🚀 Aprendendo e desenvolvendo projetos com Java e SQL
 
-📍 Fortaleza - Ceará | 24 anos
+📍 Fortaleza - Ceará
 
 🛠️ Tecnologias e Ferramentas
 Linguagens: Java, SQL
