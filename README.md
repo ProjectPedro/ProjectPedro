@@ -39,9 +39,10 @@ Projetos práticos para reforçar meu aprendizado
   ### How To Reach Me!
  
 <div> 
-  <a href="https://www.instagram.com/pedro_henriquebrz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
-  <a href="https://www.linkedin.com/in/pedro-henrique-9416aa276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  
+   <a href="https://wa.me/55989190020" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a> 
   ![Snake animation](https://github.com/ProjectPedro/ProjectPedro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
