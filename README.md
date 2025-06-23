@@ -8,11 +8,10 @@
 📍 Fortaleza - Ceará
 
 🛠️ Tecnologias e Ferramentas
-Linguagens: Java, SQL
+Linguagens: Java,javascript , Python , Sql
 
-Banco de Dados: MySQL
 
-⚙️ Ferramentas: IntelliJ IDEA, MySQL Workbench
+⚙️ Ferramentas: IntelliJ IDEA, MySQL Workbench,POSTGRESql
 
 📂 O que você encontra aqui?
 Projetos e exercícios em Java
