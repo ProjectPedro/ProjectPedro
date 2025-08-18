@@ -3,7 +3,7 @@
 
 💻 Graduando em Análise e Desenvolvimento de Sistemas
 
-🚀 Aprendendo e desenvolvendo projetos com Java e SQL
+🚀 Aprendendo e desenvolvendo projetos com Java
 
 📍 Fortaleza - Ceará
 
