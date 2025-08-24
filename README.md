@@ -3,15 +3,15 @@
 
 💻 Graduando em Análise e Desenvolvimento de Sistemas
 
-🚀 Aprendendo e desenvolvendo projetos com Java
+🚀 Aprendendo e desenvolvendo projetos com Java | Spring | Docker
 
 📍 Fortaleza - Ceará
 
 🛠️ Tecnologias e Ferramentas
-Linguagens: Java,javascript , Python , Sql
+-----
+🛠️ Linguagens: Java,javascript , Python , Sql
 
-
-⚙️ Ferramentas: IntelliJ IDEA, MySQL Workbench,POSTGRESql
+⚙️ Ferramentas: SpringBoot, Docker, PostMan, WSL Server
 
 📂 O que você encontra aqui?
 Projetos e exercícios em Java
